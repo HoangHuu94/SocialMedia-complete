@@ -1,4 +1,4 @@
-# Social Media Platform (Full-stack Network Application)
+# Social Media 
 **A high-performance social networking system emphasizing real-time communication and secure API architecture.**
 ---
 ##  Project Overview
